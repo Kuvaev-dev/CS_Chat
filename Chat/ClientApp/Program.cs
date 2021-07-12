@@ -17,7 +17,7 @@ namespace ClientApp
             Console.OutputEncoding = Encoding.UTF8;
             byte[] data = new byte[1024];
             string input, stringData;       // ввод, считываемые данные
-            IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9050);
+            IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 8080);
             Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             // создаём точку соединения и делаем проверку на ex
             try
