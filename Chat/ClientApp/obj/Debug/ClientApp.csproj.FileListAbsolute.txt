@@ -1,0 +1,7 @@
+D:\Программирование\C#\Chat\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Программирование\C#\Chat\ClientApp\bin\Debug\ClientApp.exe
+D:\Программирование\C#\Chat\ClientApp\bin\Debug\ClientApp.pdb
+D:\Программирование\C#\Chat\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+D:\Программирование\C#\Chat\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Chat\ClientApp\obj\Debug\ClientApp.exe
+D:\Программирование\C#\Chat\ClientApp\obj\Debug\ClientApp.pdb
