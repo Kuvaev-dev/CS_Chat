@@ -13,7 +13,7 @@ namespace ClientApp
     {
         static void Main(string[] args)
         {
-            // на сервере всё тоже самое
+            // у клиента всё тоже самое
             Console.OutputEncoding = Encoding.UTF8;
             byte[] data = new byte[1024];
             string input, stringData;       // ввод, считываемые данные
